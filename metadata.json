@@ -1,0 +1,8 @@
+{
+  "name": "Ceylon Kitchen Larnaca",
+  "description": "Authentic Sri Lankan and Asian cuisine in Larnaca, Cyprus. Experience the rich heritage of Ceylon spices and over 20 years of culinary expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
